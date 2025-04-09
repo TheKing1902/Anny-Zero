@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo lo que un hombre siente por una mujer</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: 'Playfair Display', serif;
+            color: #495057;
+        }
+
+        h1, h2 {
+            color: #6c757d;
+        }
+
+        h1 {
+            font-size: 3rem;
+            font-weight: 700;
+        }
+
+        h2 {
+            font-size: 2rem;
+            margin-top: 20px;
+        }
+
+        p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            background-color: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .fw-bold {
+            font-weight: 700;
+        }
+
+        .text-center {
+            text-align: center;
+        }
+
+        .text-start {
+            text-align: left;
+        }
+
+        .bg-light {
+            background-color: #e9ecef !important;
+        }
+
+        .highlight {
+            background-color: #ffe5e5;
+            padding: 8px;
+            border-radius: 5px;
+        }
+
+        .footer {
+            margin-top: 40px;
+            font-style: italic;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container py-5">
+        <h1 class="text-center fw-bold py-5">Todo lo que un hombre siente por una mujer</h1>
+        <h2 class="text-start">Querida Anny</h2>
+        <p>
+            Hoy, no sé bien cómo ni por qué, pero siento que las palabras deben ser arrancadas de este caos interior que
+            tengo. Tal vez sea la urgencia de que lo sepas, de que, a través de este pedazo de papel (o tal vez de esta
+            pantalla, que ya no sé cuál de las dos tiene más alma), llegues a comprender algo que escapa a la razón y se
+            aferra a lo más real de mí.
+        </p>
+        <p>
+            Desde que llegaste, todo ha sido un giro extraño. El mundo, que antes parecía estar en su lugar, se ha
+            volcado, y mis días se han teñido de un color que no sabía que existía, un rosa inexplicable, como una
+            sombra
+            que se cuela en la luz del día. Y ahora la vida es más liviana, más extraña, más mía y tuya a la vez. Hoy,
+            solo
+            quiero amarla un poco más, porque tú, sin que lo sepas, has vuelto a darle sentido a todo.
+        </p>
+        <p>
+            El día que llegaste a mi vida no fue como cualquier otro. Entre millones de personas, el destino te eligió,
+            o
+            tal vez no fue el destino, pero no importa, no sé cómo pasó. En un parpadeo, una niña con ojos inmensos y
+            una
+            sonrisa que podría torcer las sombras llegó, sin hacer ruido, pero rompiendo todo a su paso. Y entonces, mi
+            vida se volvió más ligera. Puedo casi decir que flotaba, como si el suelo ya no pesara tanto. Y el caos, ese
+            tornado que nunca me dejaba en paz, se disipó, porque al fin habías llegado para alimentarme, para calmarme,
+            para darme lo que me faltaba sin que lo supiera.
+        </p>
+        <p>
+            ¿Cómo no amarte? Si todo lo que comenzó de forma tan, tal vez absurda, hoy se ha convertido en un vacío que
+            solo tú ocupas. ¿Cómo no amarte si, de alguna forma, llegaste sin aviso y me robaste el alma, me robaste
+            todo, y
+            ni siquiera me di cuenta?
+        </p>
+        <p>
+            Decidí ser tuyo, sin reservas, a plena luz del día, sin miedo. Sabía que podía doler, claro, que el golpe
+            podría
+            ser fuerte, pero había algo en mí que no podía dejar de lanzarse, algo que me empujaba a abrirme sin que
+            pudiera
+            hacer nada más que confiar en que tal vez, solo tal vez, la vida tiene sentido cuando nos arriesgamos así,
+            al
+            vacío.
+        </p>
+        <p>
+            Y ahora, cuando no estás aquí, el mundo ya no es el mismo. Los días se me hacen largos, como si el sol, por
+            más que esté brillando, no pudiera atravesar el cielo sin ti. Y entonces me acuerdo de ti y me pierdo en esa
+            ausencia que se me hace enorme. El vacío es un lugar que solo tú sabes llenar. Todo lo que me rodea se
+            vuelve un
+            poco más triste, aunque nadie lo vea.
+        </p>
+        <p>
+            Tus manos, con esa fuerza que me sorprende y me atrae, sosteniéndome, como si fueras capaz de sujetar mi
+            vida
+            entre tus dedos, me vuelven loco. Hay algo salvaje en ese gesto tan tierno, algo que solo tú sabes hacer.
+            Esa
+            violencia delicada que encuentras al tocarnos.
+        </p>
+        <p>
+            Y el lugar donde antes habitaba mi dolor, ese espacio helado que no se llenaba de nada, se ha transformado.
+            Tú,
+            con tu presencia, has hecho que florezca, que el invierno ceda. Y yo, que no sé cómo decirle a Leo que tú,
+            con
+            cada palabra, con cada mirada, haces brotar de mi alma algo que no había visto antes, algo que nunca imaginé
+            que sentiría.
+        </p>
+        <p>
+            Las ideas parecen fluir, como un río que se desborda cuando pienso en ti, y es extraño porque no puedo
+            detenerme. Pienso en tus ojos, en la curva de tu cuello, en la forma en que sonríes, en todo lo que eres y
+            en lo
+            que no sabes que eres. ¿Cómo no amarte? ¿Cómo no perderme por completo en ti, si todo lo que haces, todo lo
+            que
+            eres, me envuelve, me atrapa, me vuelve loco de una manera que no puedo entender pero que tampoco quiero que
+            se
+            detenga?
+        </p>
+        <p>
+            Al final, solo dime, ¿cómo no amar a esa niña tan hermosa que me enloquece? ¿Cómo no desear compartir mis
+            días
+            con ella, ser el refugio donde encuentres paz? Eres la única a quien quiero ofrecer flores, proteger con mi
+            vida,
+            y asegurar que nada te falte mientras camines por este mundo. Solo dime qué debo hacer para ser
+            completamente
+            tuyo, y tú, ser completamente mía. ¿Cómo callo la voz de mi alma, si tú te has vuelto lo más importante que
+            tengo
+            en esta vida?
+        </p>
+        <p class="text-center fw-bold highlight">Abrazame profundamente la vida entera que no quiero perderte jamas</p>
+        <h2 class="text-start">Con todo el amor, Leo</h2>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
